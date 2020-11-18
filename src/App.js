@@ -9,13 +9,8 @@ function App() {
         <p>
           This is the initial Lion Brothers website!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+        <a className="App-link" href="https://squishmallows.com/" target="_blank" rel="noopener noreferrer">
+          Learn about us
         </a>
       </header>
     </div>
