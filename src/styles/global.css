@@ -1,7 +1,6 @@
-.center-cropped {
+.center {
   margin: auto;
-  object-fit: none; /* Do not scale the image */
-  object-position: center; /* Center the image within the element */
-  height: 100px;
-  width: 100px;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
