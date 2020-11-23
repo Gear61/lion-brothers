@@ -27,9 +27,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Lion Brothers Website: Leo-kun and Richie-kun`,
+        short_name: `Lion Brothers`,
+        description: `Website for the lion brothers Leo-kun and Richie-kun`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
